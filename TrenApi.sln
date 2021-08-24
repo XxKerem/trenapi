@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrenApi", "TrenApi\TrenApi.csproj", "{06EA1B64-4302-406C-A19F-EC10B6735A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EA1B64-4302-406C-A19F-EC10B6735A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EA1B64-4302-406C-A19F-EC10B6735A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EA1B64-4302-406C-A19F-EC10B6735A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EA1B64-4302-406C-A19F-EC10B6735A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA61B79-953A-4D9D-99F0-50A4B33FD81E}
+	EndGlobalSection
+EndGlobal
