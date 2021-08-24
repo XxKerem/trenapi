@@ -6,4 +6,4 @@ Online bir linki bulunmamaktadır ancak özel bir kütüphane kullanılmadığı
 
 Örnekteki gibi çalışması için POST methodu olarak 'http://localhost/api/Vagon/PostRezervasyon' linki çağrılabilir. 
 
-NOT: POST atılırken body kısmına örnekteki data eklenmelidir.
+NOT: POST atılırken body kısmına örnekteki data eklenmelidir. Kodun içinde Test için dummy data ile çalışılmıştır dikkate almayınız.
